@@ -43,5 +43,5 @@ then use the following markdown to display them. Replace the file names as neede
 -->
 
 
-![Home Page](screenshots/homepage.png)
-![Recommendation Example](screenshots/recommendation.png)
+![Home Page](screenshots/hg1.png)
+![Recommendation Example](screenshots/rg1.png)
