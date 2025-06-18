@@ -42,6 +42,6 @@ Upload your images to a folder called screenshots (or any name you prefer) in yo
 then use the following markdown to display them. Replace the file names as needed.
 -->
 
-![Home Page](C:\Users\mashr\Pictures\Screenshots\Screenshot 2025-06-19 001819.png)
+
 ![Home Page](screenshots/homepage.png)
 ![Recommendation Example](screenshots/recommendation.png)
