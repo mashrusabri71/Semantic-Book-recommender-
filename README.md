@@ -1,6 +1,6 @@
 # Semantic-Book-recommender-
 
-This book recommender system is designed to provide personalized reading suggestions by analyzing both the emotional sentiments of users and their preferred book categories. By leveraging sentiment analysis, the system can interpret a user's current mood or emotional state—such as happiness, sadness, excitement, or calmness—and match it with books that evoke or complement those feelings.
+This book recommender system is designed to provide personalized reading suggestions by analyzing both the emotional sentiments of users and their preferred book categories. By leveraging sentiment analysis, the system can interpret a user's current mood or emotional state, such as happiness, sadness, excitement, or calmness, and match it with books that evoke or complement those feelings.
 
 In addition to emotional alignment, users can specify their favorite genres or categories, such as mystery, romance, science fiction, or non-fiction, allowing the recommender to further tailor its suggestions to individual tastes. The combination of sentiment-driven and category-based recommendations ensures that users receive book suggestions that are not only relevant to their interests but also resonate with their current emotional needs.
 
