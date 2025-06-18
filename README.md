@@ -44,4 +44,5 @@ then use the following markdown to display them. Replace the file names as neede
 
 
 ![Home Page](screenshots/hg1.png)
+  <!-- This creates a visual gap between the sections -->
 ![Recommendation Example](screenshots/rg1.png)
