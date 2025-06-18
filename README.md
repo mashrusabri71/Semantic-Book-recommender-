@@ -31,3 +31,17 @@ Dynamic Suggestions: Adapts recommendations as user emotions or category prefere
   <img src="https://img.shields.io/badge/IPyWidgets-3DDC84?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
+
+
+## 📸 Screenshots
+
+Here are some screenshots of the project:
+
+<!--
+Upload your images to a folder called screenshots (or any name you prefer) in your repository,
+then use the following markdown to display them. Replace the file names as needed.
+-->
+
+![Home Page](C:\Users\mashr\Pictures\Screenshots\Screenshot 2025-06-19 001819.png)
+![Home Page](screenshots/homepage.png)
+![Recommendation Example](screenshots/recommendation.png)
