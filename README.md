@@ -49,9 +49,8 @@ then use the following markdown to display them. Replace the file names as neede
 
 
 ## 📸 Data Visualiztions: 
-(screenshots/vis1.png)
+![Home Page](screenshots/vis1.png)
   <!-- This creates a visual gap between the sections -->
-  (screenshots/vis2.png)
-
+![Recommendation Example](screenshots/vis2.png)
 
 
