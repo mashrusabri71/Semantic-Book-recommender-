@@ -33,7 +33,7 @@ Dynamic Suggestions: Adapts recommendations as user emotions or category prefere
 </div>
 
 
-## 📸 Screenshots
+## 📸 Web Application
 
 Here are some screenshots of the project:
 
@@ -46,3 +46,12 @@ then use the following markdown to display them. Replace the file names as neede
 ![Home Page](screenshots/hg1.png)
   <!-- This creates a visual gap between the sections -->
 ![Recommendation Example](screenshots/rg1.png)
+
+
+## 📸 Data Visualiztions: 
+(screenshots/vis1.png)
+  <!-- This creates a visual gap between the sections -->
+  (screenshots/vis2.png)
+
+
+
